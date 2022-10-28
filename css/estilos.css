@@ -1,0 +1,28 @@
+body {
+  background-color: lightgreen;
+  background-image: url(../imagenes/chipá.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+   color: black;
+   font-size: 30px;}
+
+#letratitulo {
+  color: darkblue;
+  text-decoration: underline;
+  font-size: 90px;
+  text-align: center;
+}
+
+.subtitulo{color:red;
+  font-size: 50px;
+   text-align: center;}
+.listas {color: green;
+   text-align: inherit;
+    text-decoration: underline;
+     font-size: 45px;
+    }
+
+    #chipa {
+    width: 30%;
+    }
